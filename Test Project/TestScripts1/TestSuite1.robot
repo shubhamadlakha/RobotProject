@@ -4,7 +4,6 @@ Library    SeleniumLibrary
 
 *** Variables ***
 ${URL}    https://google.com
-${Browser}    Chrome
 
 *** Test Cases ***
 TestCase1    #Logging test
